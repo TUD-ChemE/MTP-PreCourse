@@ -1,7 +1,7 @@
 (intro)=
-# Molecular Transport Phenomena Pre-Course
+# MTP Pre-Course
 
-Welcome to the Jupyter Book for the Molecular Transport Phenomena Pre-Course for MSc Chemical Engineering at TU Delft! This pre-course was designed to ensure every student is ready to take Molecular Transport Phenomena.
+Welcome to the Jupyter Book for the **Molecular Transport Phenomena Pre-Course** for MSc Chemical Engineering at TU Delft! This pre-course was designed to ensure every student is ready to take Molecular Transport Phenomena.
 
 This pre-course covers mathematical foundations and reviews BSc-level transport phenomena concepts necessary to start Molecular Transport Phenomena. 
 
