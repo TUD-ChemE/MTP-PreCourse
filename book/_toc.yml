@@ -11,6 +11,9 @@ parts:
       - file: content/Mathematics/difeqs.md
       - file: content/Mathematics/prob_stats.md
   - caption: Transport Phenomena
+    numbered: true  
+    style: numerical 
+    restart_numbering: true
     chapters:
       - file: content/Transport_Phenomena/constants_ndnumbers.md
       - file: content/Transport_Phenomena/Mass-Energy-TP/mass_energy_landing.md
@@ -18,15 +21,15 @@ parts:
         - file: content/Transport_Phenomena/Mass-Energy-TP/massdif_cart.md
         - file: content/Transport_Phenomena/Mass-Energy-TP/massdif_cyl.md
         - file: content/Transport_Phenomena/Mass-Energy-TP/massdifconv.md
-        options:
-          numbered: true
+        # options:
+        #   numbered: true
       - file: content/Transport_Phenomena/Momentum-TP/momentum_landing.md
         sections:
         - file: content/Transport_Phenomena/Momentum-TP/macromom.md
         - file: content/Transport_Phenomena/Momentum-TP/micromom.md
         - file: content/Transport_Phenomena/Momentum-TP/navierstokes.md
-        options:
-          numbered: true
+        # options:
+        #   numbered: true
   - caption: Molecular Transport Phenomena
     chapters:
       - file: content/MTP_Course/mtp_handbook.md
