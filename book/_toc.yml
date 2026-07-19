@@ -11,6 +11,7 @@ parts:
       - file: content/Mathematics/difeqs.md
       - file: content/Mathematics/prob_stats.md
   - caption: Transport Phenomena
+    restart_numbering: true
     chapters:
       - file: content/Transport_Phenomena/constants_ndnumbers.md
       - file: content/Transport_Phenomena/Mass-Energy-TP/mass_energy_landing.md
