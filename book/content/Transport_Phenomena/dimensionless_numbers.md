@@ -5,7 +5,7 @@ In transport phenomena, where we deal with the transport of conserved physical q
 ```{tip} 
 Do not try to remember the dimensionless numbers by heart! Please note the basic physical meaning of the numerator and the denominator terms for each of them, and check the dimensions. In the end, all the numbers must be dimensionless! 
 
-The units are deliberately left out of this document, so please recall or look them up!
+The units are deliberately left out here, so please recall or look them up!
 ```
 
 ## Dimensionless numbers similar between Mass and Energy transport
