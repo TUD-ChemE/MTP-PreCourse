@@ -3,9 +3,9 @@ format: jb-book
 root: intro.md
 parts:
   - caption: Mathematics
-    numbered: true  
-    style: numerical 
-    restart_numbering: true
+    # numbered: true  
+    # style: numerical 
+    # restart_numbering: true
     chapters:
       - file: content/Mathematics/int_by_parts.md
       - file: content/Mathematics/difeqs.md
