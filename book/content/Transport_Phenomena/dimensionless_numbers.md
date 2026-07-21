@@ -12,7 +12,7 @@ The units are deliberately left out of this document, so please recall or look t
 ### Peclet Number
 Peclet number compares \textcolor{blue}{convective} and \textcolor{blue}{diffusive} transport. For both mass and energy transport, this corresponding number comparing convection and diffusion is called the Peclet Number (Pe). 
 
-Peclet number for mass transport, denoted by $\textrm{Pe_{M}}$ is given by:  
+Peclet number for mass transport, denoted by $\textrm{Pe}_M$ is given by:  
 
 $$
 \textrm{Pe$_{M}$}=\frac{vL}{\mathcal{D}} \nonumber
@@ -69,7 +69,7 @@ where, $\nu$=the kinematic viscosity of the system, which can be expressed as $\
 ### Fourier Number
 Fourier number compares \textcolor{blue}{the actual time of transport} and \textcolor{blue}{the characteristic time of diffusive transport}. For both mass and energy transport, this corresponding number is called the Fourier Number (Fo). 
 
-Fourier number for mass transport, denoted by $\textrm{Fo_{M}}$ is given by: 
+Fourier number for mass transport, denoted by $\textrm{Fo}_M$ is given by: 
 
 $$
 \textrm{Fo$_{M}$}=\frac{t}{t_c}=\frac{t}{L^2/\mathcal{D}}=\frac{\mathcal{D} t}{L^2} \nonumber
