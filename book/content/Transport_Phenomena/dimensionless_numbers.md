@@ -10,7 +10,7 @@ The units are deliberately left out of this document, so please recall or look t
 
 ## Dimensionless numbers similar between Mass and Energy transport
 ### Peclet Number
-Peclet number compares \textcolor{blue}{convective} and \textcolor{blue}{diffusive} transport. For both mass and energy transport, this corresponding number comparing convection and diffusion is called the Peclet Number (Pe). 
+Peclet number compares **convective** and **diffusive** transport. For both mass and energy transport, this corresponding number comparing convection and diffusion is called the Peclet Number (Pe). 
 
 Peclet number for mass transport, denoted by $\textrm{Pe}_M$ is given by:  
 
@@ -29,7 +29,7 @@ $$
 where, $v$=characteristic velocity of the system, $L$=characteristic length of the system, and $\alpha$ is the thermal diffusivity of the system, which can be expressed as $\alpha=\frac{\lambda}{\rho c_P}$, where, $\lambda$ is the thermal conductivity, $\rho$ is the density and $c_P$ is the specific heat capacity (at constant pressure) of the system.
 
 ### Sherwood Number & Nusselt Number
-Sherwood number and Nusselt number compare the same things both for mass and energy transport: the \textcolor{blue}{total} amount of transport and the \textcolor{blue}{diffusive} part of that transport.
+Sherwood number and Nusselt number compare the same things both for mass and energy transport: the **total** amount of transport and the **diffusive** part of that transport.
 
 Sherwood number compares total mass transport with diffusive mass transport, denoted by:  
 
@@ -48,7 +48,7 @@ $$
 where, $h$=overall heat transfer coefficient of the system, $L$=characteristic length of the system, and $\lambda$ is the thermal conductivity of the system.
 
 ### Schmidt Number & Prandtl number
-Schmidt Number and Prandtl Number compare the same things for mass and energy transport, respectively: the \textcolor{blue}{momentum diffusivity} and the \textcolor{blue}{mass/thermal diffusivity}.
+Schmidt Number and Prandtl Number compare the same things for mass and energy transport, respectively: the **momentum diffusivity** and the **mass/thermal diffusivity**.
 
 Schmidt Number compares momentum diffusivity and mass diffusivity, denoted by:  
 
@@ -67,7 +67,7 @@ $$
 where, $\nu$=the kinematic viscosity of the system, which can be expressed as $\nu=\frac{\mu}{\rho}$, where, $\mu$ is the dynamic viscosity, and $\rho$ is the density of the system; and, $\alpha$ is the thermal diffusivity of the system, which can be expressed as $\alpha=\frac{\lambda}{\rho c_P}$, where, $\lambda$ is the thermal conductivity, $\rho$ is the density and $c_P$ is the specific heat capacity (at constant pressure) of the system.
 
 ### Fourier Number
-Fourier number compares \textcolor{blue}{the actual time of transport} and \textcolor{blue}{the characteristic time of diffusive transport}. For both mass and energy transport, this corresponding number is called the Fourier Number (Fo). 
+Fourier number compares **the actual time of transport** and **the characteristic time of diffusive transport**. For both mass and energy transport, this corresponding number is called the Fourier Number (Fo). 
 
 Fourier number for mass transport, denoted by $\textrm{Fo}_M$ is given by: 
 
